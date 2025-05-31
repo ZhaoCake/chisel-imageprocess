@@ -1,0 +1,11 @@
+# vscode
+.metals/
+.vscode/
+.bloop/
+
+# mill
+build/
+out/
+
+# scripts
+output/
