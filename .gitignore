@@ -9,3 +9,11 @@ out/
 
 # scripts
 output/
+
+# others
+sv2v-Linux.zip
+sv2v-Linux/
+testbench/sim_output/
+testbench/ProcessMain_tb.v
+*.vcd
+*.hex
